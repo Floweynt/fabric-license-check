@@ -1,0 +1,1 @@
+# fabric-license-check
